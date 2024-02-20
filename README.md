@@ -5,4 +5,4 @@ My coding stats are nothing too crazy :
 
 [![wakatime](https://wakatime.com/badge/user/c1b2dedf-4ddf-484f-9c15-f106d594842f.svg)](https://wakatime.com/@c1b2dedf-4ddf-484f-9c15-f106d594842f)  
 
-BunnieABC  |  L/L  |  Proxima AI  | StaticCMS  |  Dwyl  | Fireship.io
+Creator BunnieABC  |  L/L  |  Proxima AI  | StaticCMS  |  Dwyl  | Fireship.io | 10x Engineer 
