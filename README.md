@@ -7,4 +7,4 @@ My coding stats are nothing too crazy :
 
 Creator BunnieABC  |  L/L  |  Proxima AI  | StaticCMS  |  Dwyl  | Fireship.io | 10x Engineer && Cross Platform Developer
 
-Inspired by Fantasy, Steve Wozz, Steve Jobs, Elon Musk, Shaddyshad, Jeff Bezos, Linus Torvalds, Jeff Delaney, Geo Hotz, ...others && myself.
+Inspired by Fantasy, Steve Wozz, Steve Jobs, Elon Musk, Shaddyshad, Jeff Bezos, Linus Torvalds, Jeff Delaney, Geo Hotz, ...others && myself. I almost forgot Zuck the boss.
