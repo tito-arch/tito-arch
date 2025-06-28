@@ -1,5 +1,14 @@
+![Snake animation](https://github.com/tito-arch/tito-arch/blob/output/github-snake.svg)
 
-![contributions](https://user-images.githubusercontent.com/70854062/205451107-58d5f44b-ed85-40bb-aed9-65d85e2582e4.svg)
+<!-- Or for automatic dark/light mode switching -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tito-arch/tito-arch/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tito-arch/tito-arch/blob/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/tito-arch/tito-arch/blob/output/github-snake.svg">
+</picture>
+
+<!-- Or use the custom ocean-themed GIF -->
+![Ocean Snake](https://github.com/tito-arch/tito-arch/blob/output/ocean.gif)
 
 My coding stats are nothing too crazy :
 
