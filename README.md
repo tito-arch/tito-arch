@@ -13,6 +13,8 @@ Inspired by Fantasy, Steve Wozz, Steve Jobs, Elon Musk, Shaddyshad, Jeff Bezos, 
 
 If you’re going to try, go all the way.
 
+Otherwise, don't even start.
+
 This could mean losing girlfriends,
 
 wives, relatives, jobs, and
