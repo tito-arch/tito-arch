@@ -5,24 +5,25 @@ My coding stats are nothing too crazy :
 
 [![wakatime](https://wakatime.com/badge/user/c1b2dedf-4ddf-484f-9c15-f106d594842f.svg)](https://wakatime.com/@c1b2dedf-4ddf-484f-9c15-f106d594842f)  
 
-Creator BunnieABC  |  L/L  |  Proxima AI  | StaticCMS  |  Dwyl  | Fireship.io | 10x Engineer && Cross Platform Developer
+Creator BunnieABC  |  L&L Worldwide  |  Calcurious  |  Dwyl  | Fireship.io | 10x Engineer && Cross Platform Developer
 
 Inspired by Fantasy, Steve Wozz, Steve Jobs, Elon Musk, Shaddyshad, Jeff Bezos, Linus Torvalds, Jeff Delaney, Geo Hotz, ...others && myself. I almost forgot Zuck the boss.
 
-----
+```
 
-if you’re going to try, go all the way.
+If you’re going to try, go all the way.
 
-this could mean losing girlfriends,
+This could mean losing girlfriends,
 
-wives, relatives, jobs and
+wives, relatives, jobs, and
 
-maybe your mind.
+Maybe your mind.
 
-do it.
+Do it.
 
-all the way.
+All the way.
 
-you will ride life straight to perfect laughter,
+You will ride life straight to perfect laughter,
 
-it’s the only good fight there is.
+It’s the only good fight there is.
+```
